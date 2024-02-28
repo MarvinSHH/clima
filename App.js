@@ -7,7 +7,7 @@ export default function App() {
       <Encabezado />
       <Cuerpo />
     </View>
-  );
+  ); //sss
 }
 export const Encabezado = () => {
   return <View style={styles.encabezado}></View>;
