@@ -6,7 +6,7 @@ export const estilos = StyleSheet.create({
     //backgroundColor:'#5affcc',
     padding: 5,
     borderRadius: 5,
-    borderColor: "black", //ssss
+    borderColor: "black",
     borderWidth: 2,
     //margin:3,
     alignItems: "center",
